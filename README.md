@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Granoo0
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, My name is Granit Trolli
+- 👀 I’m always looking forward to learning new stuff and improving my knowledge
 - 📫 Telegram @TheGranoo
 
 <!---
